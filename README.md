@@ -254,7 +254,7 @@ Diabetic_Prediction/
 ├── logistic.ipynb
 ├── train_model.py
 ├── requirements.txt
-└── README.md
+└── README.md ```
 
 
 
