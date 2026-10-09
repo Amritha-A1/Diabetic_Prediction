@@ -228,8 +228,8 @@ The application uses saved Machine Learning models and the required preprocessin
 - Deployment: Streamlit Community Cloud
 
 ## 📂 Project Structure
-
-'''Diabetic_Prediction/
+```text
+Diabetic_Prediction/
 │
 ├── .vscode/
 │   └── settings.json
@@ -254,7 +254,11 @@ The application uses saved Machine Learning models and the required preprocessin
 ├── logistic.ipynb
 ├── train_model.py
 ├── requirements.txt
-└── README.md'''
+└── README.md
+
+
+
+
 
 ### File Description
 
