@@ -100,7 +100,7 @@ KNN classifies a data point based on the classes of its nearest neighbors using 
 
 **Purpose**: To predict diabetes outcomes based on similarities between observations.
 
-Optimization: Different K values were evaluated to identify a suitable K value.
+**Optimization**: Different K values were evaluated to identify a suitable K value.
 
 ### 3. Decision Tree Classifier
 
@@ -108,7 +108,7 @@ Decision Tree is a supervised learning algorithm that makes predictions using a 
 
 **Purpose**: To classify diabetes outcomes using feature-based decisions.
 
-Optimization: Pruning was applied to control tree complexity and help reduce overfitting.
+**Optimization**: Pruning was applied to control tree complexity and help reduce overfitting.
 
 ### 4. Random Forest Classifier
 
@@ -229,7 +229,7 @@ The application uses saved Machine Learning models and the required preprocessin
 
 ## 📂 Project Structure
 
-Diabetic_Prediction/
+'''Diabetic_Prediction/
 │
 ├── .vscode/
 │   └── settings.json
@@ -254,7 +254,7 @@ Diabetic_Prediction/
 ├── logistic.ipynb
 ├── train_model.py
 ├── requirements.txt
-└── README.md
+└── README.md'''
 
 ### File Description
 
